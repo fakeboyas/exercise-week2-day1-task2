@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+}
+
+.header-1 {
+    background-image: url(/asset/img/koppiii.jpg);
+    height: 80vh;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    padding-right: 40px;
+}
+.text {
+    color: white;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    opacity: 70%;
+    width: 100%;
+    position: fixed;
+}
+
+.header .logo1 {
+    width: 50%;
+}
+
+.header .logo1 img {
+    width: 25%;
+    margin: 10px;
+}
+
+.header .menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    width: 50%;
+}
+
+.profile .img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.photos1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.list-photos1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.photos2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.photos22 {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-two {
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    align-items: center;
+    background-color: turquoise;
+}
+
+.menu2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+.maps {
+    width: 50%;
+}

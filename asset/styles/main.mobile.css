@@ -1,0 +1,29 @@
+@media only screen and (max-width: 500px) {
+    .photos1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .header .logo1 img {
+        width: 75%;
+        margin: 10px;
+    }
+
+    .photos2 {
+        flex-direction: column;
+    }
+
+    .container-two {
+        flex-direction: column;
+        align-items: center;
+        font-size: 14px;
+    }
+
+    .maps {
+        text-align: center;
+    }
+}
